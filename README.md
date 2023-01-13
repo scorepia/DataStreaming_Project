@@ -1,8 +1,10 @@
 # DADS6005_Data Streaming and Real Time Analytics_Project
 
+![open_pepsi-1](https://user-images.githubusercontent.com/102606270/212273091-7bb4c1bb-8d15-4e19-8003-cd1f49f168e1.png)
+
 ## Work flow diagram
 
-![open_pepsi-1](https://user-images.githubusercontent.com/102606270/212273091-7bb4c1bb-8d15-4e19-8003-cd1f49f168e1.png)
+![Realtime_Project](https://user-images.githubusercontent.com/94518867/212298349-45383be5-9984-4492-bd40-cc3f5afe0a1d.jpg)
 
 ## Producer1 and Producer2
 ทำการดึงข้อมูลหุ้นของ Pepsi Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API 
