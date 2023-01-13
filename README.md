@@ -12,6 +12,11 @@
 ## Producer3
 ทำการดึงข้อมูล hot blogs จาก Reddit Platform จาก Reddit API เพื่อทำการวิเคราะห์การพูดถึงสินค้า Pepsi และ Coca-Cola
 
+## Consumer
+ทำการดึงข้อมูลที่เก็บอยู่ใน AWS รวบรวมข้อมูลทั้งหมดจาก Producer1, Producer2, และ Producer3 เพื่อนำมาวิเคราะห์ข้อมูลและแสดงผล
+
+https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_consumer.ipynb
+
 ## End Credit
 งานชิ้นนี้เป็นส่วนหนึ่งของวิชา DADS6005 Data Streaming and Real Time Analytics หลักสูตรวิทยาศาสตร์มหาบัณฑิต คณะสถิติประยุกต์ สถาบันบัณฑิตพัฒนบริหารศาสตร์
 
