@@ -23,7 +23,7 @@ https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_prod
 
 https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_consumer.ipynb
 
-## Vedio Presentation
+## Video Presentation
 https://nida365.sharepoint.com/:v:/r/sites/Jinjutha/Shared%20Documents/General/Recordings/New%20channel%20meeting-20230113_225046-Meeting%20Recording.mp4?csf=1&web=1&e=2b8YHb
 
 ## End Credit
