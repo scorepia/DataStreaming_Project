@@ -7,7 +7,7 @@
 ![Realtime_Project](https://user-images.githubusercontent.com/94518867/212298349-45383be5-9984-4492-bd40-cc3f5afe0a1d.jpg)
 
 ## Producer1 and Producer2
-ทำการดึงข้อมูลหุ้นของ Pepsi Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API 
+ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API 
 
 ## Producer3
 ทำการดึงข้อมูล hot blogs จาก Reddit Platform จาก Reddit API เพื่อทำการวิเคราะห์การพูดถึงสินค้า Pepsi และ Coca-Cola
