@@ -9,6 +9,8 @@
 ## Producer1 and Producer2
 ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API 
 
+https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer1_PEP.ipynb
+
 ## Producer3
 ทำการดึงข้อมูล hot blogs จาก Reddit Platform จาก Reddit API เพื่อทำการวิเคราะห์การพูดถึงสินค้า Pepsi และ Coca-Cola
 
