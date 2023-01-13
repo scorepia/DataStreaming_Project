@@ -10,6 +10,7 @@
 ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API
 
 Producer1: https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer1_PEP.ipynb
+
 Producer2: https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer2_COKE.ipynb
 
 ## Producer3
