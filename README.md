@@ -7,18 +7,13 @@
 ![Realtime_Project](https://user-images.githubusercontent.com/94518867/212298349-45383be5-9984-4492-bd40-cc3f5afe0a1d.jpg)
 
 ## Producer1 and Producer2
-ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API 
+ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API
 
-Producer1
-https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer1_PEP.ipynb
-
-Producer2
-https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer2_COKE.ipynb
+Producer1: https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer1_PEP.ipynb
+Producer2: https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer2_COKE.ipynb
 
 ## Producer3
 ทำการดึงข้อมูล hot blogs จาก Reddit Platform จาก Reddit API เพื่อทำการวิเคราะห์การพูดถึงสินค้า Pepsi และ Coca-Cola
-
-https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer3.ipynb
 
 ## Consumer
 ทำการดึงข้อมูลที่เก็บอยู่ใน AWS รวบรวมข้อมูลทั้งหมดจาก Producer1, Producer2, และ Producer3 เพื่อนำมาวิเคราะห์ข้อมูลและแสดงผล
