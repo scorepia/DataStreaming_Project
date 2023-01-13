@@ -7,7 +7,7 @@
 ![Realtime_Project](https://user-images.githubusercontent.com/94518867/212298349-45383be5-9984-4492-bd40-cc3f5afe0a1d.jpg)
 
 ## Producer1 and Producer2
-ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finace API
+ทำการดึงข้อมูลหุ้นของ PepsiCo Corporation และ Coca-Cola Corporation ในตลาดหุ้นของสหรัฐอเมริกา จาก YaHoo Finance API
 
 Producer1: https://github.com/scorepia/Realtime6005_Project/blob/main/DADS6005_Project_producer1_PEP.ipynb
 
